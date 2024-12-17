@@ -3,16 +3,14 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    text-align: center;
    }
    /* Class Selectors */
    .header {
     background-color: #4395ff;
     color: rgb(255, 255, 255);
     padding: 1rem;
-   }
-   /* ID Selectors */
-   #about {
-    background-color: #f4f4f4;
+    
    }
    /* Descendant Selectors */
    .nav-list li {
